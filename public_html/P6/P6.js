@@ -1,0 +1,18 @@
+var m = 50;
+var u = 10;
+var result = (m ** u);
+console.log("50 to 10 is " + result);
+result = (u ** m);
+console.log("10 to 50 is " + result);
+result = (m ** u);
+console.log("multiplication between 50 and 10 is " + result);
+result = (m / u);
+console.log("the division between 50 and 10 is " + result);
+result = (u / m);
+console.log("the division between 10 and 50 is " + result);
+result = (m / u);
+console.log("the module of the division between 50 and 10 is " + result);
+result = (m - u);
+console.log("the subtraction between 50 and 10 is " + result);
+result = (m + u);
+console.log("the sum between 50 and 10 is " + result);
