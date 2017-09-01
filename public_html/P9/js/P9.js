@@ -1,4 +1,4 @@
-var num = Number(prompt("ingrese numero"));
+var num = Number(prompt("Enter number"));
 numeroprimo = true;
 for (i = 1; i < num; i++)
 {
