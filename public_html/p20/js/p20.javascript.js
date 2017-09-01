@@ -4,3 +4,4 @@ var retencios = Number(promtp("ingrese retencion"));
 var sueldodiario = Number(promtp("ingrese el suledo diario"));
 var porcentajedepago = Number(promtp("porcentaje de pago"));
 console.log
+//sin terminar
