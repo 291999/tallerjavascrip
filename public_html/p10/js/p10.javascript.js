@@ -1,4 +1,4 @@
-var num = Number(prompt("ingrese numero"));
+var num = Number(prompt("Enter number"));
 num0 = Number(num);
 
 if (num0 % 2 === 0)
